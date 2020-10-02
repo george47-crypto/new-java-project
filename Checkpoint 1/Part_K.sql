@@ -1,0 +1,2 @@
+/**TODO 1: Find the revenue generated to date from renting out vehicles of type ‘car’. The returned table should contain only one row and one column, and the column should be named 
+‘Revenue by Car’.**/
